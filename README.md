@@ -5,7 +5,7 @@ The queries focus on data cleaning, joins, subqueries, and building KPIs for man
 ## Contents
 - SQL queries organized by topic (joins, subqueries, KPIs).
 - Comments in queries for clarity.
-- [Link to Tableau Dashboard]([INSERT-YOUR-TABLEAU-LINK-HERE](https://public.tableau.com/app/profile/brahim.boukaskas/viz/ROCKBUSTERANALYSIS/BarchartTop10countriesbycustomercount).
+- [Link to Tableau Dashboard](https://public.tableau.com/app/profile/brahim.boukaskas/viz/ROCKBUSTERANALYSIS/BarchartTop10countriesbycustomercount).
 
 ## Tools
 - PostgreSQL (pgAdmin)
